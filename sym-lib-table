@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rc-fabgl)(type Legacy)(uri ${KIPRJMOD}/rc-fabgl.lib)(options "")(descr ""))
+)
