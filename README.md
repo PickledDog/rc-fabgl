@@ -42,11 +42,11 @@ The specified parts are just the ones I used, and can be substituted as needed -
 | Reference | Value | Qty | Mouser link |
 | --------- | ----- | --- | ----------- |
 | BZ1 | Piezo buzzer | 1 | [TDK PS1240P02BT](https://www.mouser.com/ProductDetail/810-PS1240P02BT) |
-| C1 | 10μF ceramic | 1 | [TDK FG18X5R1E106MRT06](https://www.mouser.com/ProductDetail/FG18X5R1E106MRT06) |
+| C1 | 4.7μF ceramic | 1 | [TDK FG18X5R1E475KRT06](https://www.mouser.com/ProductDetail/FG18X5R1E475KRT06) |
 | C2 | 1μF ceramic | 1 | [TDK FG18X5R1H105KRT06](https://www.mouser.com/ProductDetail/FG18X5R1H105KRT06) |
-| C3 | 10μF electrolytic | 1 | [Nichicon UMA1E100MDD](https://www.mouser.com/ProductDetail/UMA1E100MDD) |
-| C4 | 4.7μF ceramic | 1 | [TDK FG18X5R1E475KRT06](https://www.mouser.com/ProductDetail/FG18X5R1E475KRT06) |
-| C5, C6 | 100nF ceramic | 2 | [KEMET C315C104M5U5TA](https://www.mouser.com/ProductDetail/C315C104M5U5TA7303) |
+| C3 | 22μF electrolytic | 1 | [KEMET ESS226M016AC2AA](https://www.mouser.com/ProductDetail/ESS226M016AC2AA/) |
+| C4 | 10μF ceramic | 1 | [TDK FG18X5R1E106MRT06](https://www.mouser.com/ProductDetail/FG18X5R1E106MRT06) |
+| C5-C7 | 100nF ceramic | 3 | [KEMET C315C104M5U5TA](https://www.mouser.com/ProductDetail/C315C104M5U5TA7303) |
 | J1/2 | 2x40 right-angle header | 1 | [3M 2380-5121TG](https://www.mouser.com/ProductDetail/2380-5121TG) |
 | J3 | 2x6 right-angle header | 1 | [Amphenol 10129382-912002BLF](https://www.mouser.com/ProductDetail/10129382-912002BLF) |
 | J4 | 6-pin Mini-DIN socket | 1 | [Kycon KMDGX-6S-BS](https://www.mouser.com/ProductDetail/806-KMDGX-6S-BS) |
@@ -55,11 +55,11 @@ The specified parts are just the ones I used, and can be substituted as needed -
 | JP3/4/5/6 | 2x4 header | 1 | [Amphenol 10129381-908002BLF](https://www.mouser.com/ProductDetail/10129381-908002BLF) |
 | Q1, Q2 | 2N7000 enh N-MOSFET | 2 | [ON Semi 2N7000](https://www.mouser.com/ProductDetail/2N7000) |
 | R1 | 10kΩ resistor | 1 | [Yageo CFR-25JT-52-10K](https://www.mouser.com/ProductDetail/CFR-25JT-52-10K) |
-| R2-R4 | 100kΩ resistor | 3 | [Yageo CFR-25JT-52-100K](https://www.mouser.com/ProductDetail/CFR-25JT-52-100K) |
-| R5-R8 | 4k7Ω resistor | 4 | [Yageo CFR-25JT-52-4K7](https://www.mouser.com/ProductDetail/CFR-25JT-52-4K7) |
-| R10, R13, R16 | 261Ω resistor | 3 | [Yageo MFR-25FRF52-261R](https://www.mouser.com/ProductDetail/603-MFR-25FRF52-261R) |
-| R11, R14, R17 | 510Ω resistor | 3 | [Yageo MFR-25FTE52-510R](https://www.mouser.com/ProductDetail/603-MFR-25FTE52-510R) |
-| R9, R12, R15, R18, R19 | 120Ω resistor | 5 | [Yageo MFR-25FTF52-120R](https://www.mouser.com/ProductDetail/603-MFR-25FTF52-120R) |
+| R2-R5 | 100kΩ resistor | 4 | [Yageo CFR-25JT-52-100K](https://www.mouser.com/ProductDetail/CFR-25JT-52-100K) |
+| R6-R9 | 4k7Ω resistor | 4 | [Yageo CFR-25JT-52-4K7](https://www.mouser.com/ProductDetail/CFR-25JT-52-4K7) |
+| R10-R14 | 120Ω resistor | 5 | [Yageo MFR-25FTF52-120R](https://www.mouser.com/ProductDetail/603-MFR-25FTF52-120R) |
+| R15-R17 | 261Ω resistor | 3 | [Yageo MFR-25FRF52-261R](https://www.mouser.com/ProductDetail/603-MFR-25FRF52-261R) |
+| R18-R20 | 510Ω resistor | 3 | [Yageo MFR-25FTE52-510R](https://www.mouser.com/ProductDetail/603-MFR-25FTE52-510R) |
 | SW1, SW2 | Right-angle tact sw 3.9mm | 2 | [C&K PTS645VL392LFS](https://www.mouser.com/ProductDetail/611-PTS645VL392) |
 | U1 | MCP1825S-330 | 1 | [Microchip MCP1825ST-3302E/DB](https://www.mouser.com/ProductDetail/579-MCP1825ST3302EDB) |
 | U2 | ESP32-WROVER-E | 1 | [Espressif ESP32-WROVER-E(M213EH3264PH3Q0)](https://www.mouser.com/ProductDetail/356-ESP32WRVE23264PC) |
