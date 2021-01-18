@@ -1,5 +1,6 @@
 # rc-fabgl
  FabGL terminal board for RC2014
+![Assembled PD104](/img/assembled.jpg)
 
 ## Overview
 This is my take on the FabGL dev kit, designed into the form factor of a RC2014 card with the intention of implementing a serial terminal.
